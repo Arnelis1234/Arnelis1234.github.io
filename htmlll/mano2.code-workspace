@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "../../../Documents/bbb"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c",
+			"stdlib.h": "c",
+			"math.h": "c",
+			"stdbool.h": "c",
+			"arr data": "cpp",
+			"string.h": "c"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "bbb"
+	}
+}
